@@ -6,6 +6,8 @@
 
 ![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzYndtazdseWw1NnZ5cGhyNGdjYXl1dDkyNjE1a240dWtrNjBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
+</div>
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
