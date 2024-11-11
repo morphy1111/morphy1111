@@ -2,8 +2,6 @@
 
 # 👋 Hi, my name is Daniil
 
-### Head of the Department of Information Systems and Technologies of the Polar State University 🇷🇺
-
 </div>
 
 # 💻 Tech Stack:
